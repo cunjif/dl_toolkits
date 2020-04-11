@@ -1,0 +1,7 @@
+¡¾1¡¿conv layer feat -> (104, 138) and rf -> (3, 3) 
+¡¾2¡¿maxpool layer feat -> (51, 68) and rf -> (11, 11) 
+¡¾3¡¿conv layer feat -> (51, 68) and rf -> (43, 43) 
+¡¾4¡¿maxpool layer feat -> (25, 33) and rf -> (59, 59) 
+¡¾5¡¿conv layer feat -> (25, 33) and rf -> (91, 91) 
+¡¾6¡¿conv layer feat -> (25, 33) and rf -> (123, 123) 
+¡¾7¡¿maxpool layer feat -> (12, 16) and rf -> (155, 155) 
